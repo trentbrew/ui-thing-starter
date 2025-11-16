@@ -61,7 +61,7 @@
     "jszip": "^3.10.1",
     "motion-v": "^1.7.0",
     "nuxt": "4.1.2",
-    "nuxt-og-image": "^5.1.9",
+    "nuxt-og-image": "^5.1.12",
     "pinia": "^3.0.3",
     "reka-ui": "^2.4.1",
     "tailwind-merge": "^3.3.1",
