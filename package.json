@@ -25,6 +25,11 @@
     "*.{ts,vue}": "eslint --fix",
     "*": "npm run format"
   },
+  "pnpm": {
+    "overrides": {
+      "vite": "npm:rolldown-vite@latest"
+    }
+  },
   "dependencies": {
     "@internationalized/date": "^3.10.0",
     "@internationalized/number": "^3.6.5",
